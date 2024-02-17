@@ -39,7 +39,6 @@
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
   cursor: pointer;
   text-decoration: none;
-  /* margin-bottom: 50px; */
 }
 
 .contactBtn:hover {
@@ -49,7 +48,7 @@
 
 .heroImg {
     width: 50%;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
 }
 
 @media screen and (max-width: 830px) {
