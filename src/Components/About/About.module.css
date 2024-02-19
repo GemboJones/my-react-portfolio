@@ -1,0 +1,23 @@
+.container {
+  background-color: var(--color-bg);
+  margin-top: 56px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    color: var(--color-text);
+}
+
+.title {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.description {
+  font-size: 28px;
+  line-height: 1.3;
+  margin-bottom: 50px;
+}
