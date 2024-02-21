@@ -11,11 +11,11 @@
 }
 
 .title {
-  font-size: 28px;
+  font-size: 30px;
   font-weight: 700;
   text-decoration: none;
   color: var(--color-text);
-  transition: 0.3s;
+  transition: 0.2s;
 }
 
 .title:hover {
@@ -37,11 +37,11 @@
 }
 
 .menuItems a {
-  font-size: 24px;
+  font-size: 26px;
   font-weight: 700;
   color: var(--color-text);
   text-decoration: none;
-  transition: 0.3s;
+  transition: 0.2s;
 }
 
 .menuItems a:hover {
