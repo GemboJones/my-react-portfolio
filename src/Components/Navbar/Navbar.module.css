@@ -54,6 +54,10 @@
     align-items: flex-start;
   }
 
+  .title {
+    font-size: 24px;
+  }
+
   .menu {
     position: absolute;
     right: 0;

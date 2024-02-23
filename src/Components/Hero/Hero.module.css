@@ -67,9 +67,9 @@
 }
 
 .secondaryBtn:hover {
-  background-color: #0A66C2;
+  background-color: #0a66c2;
   color: var(--color-text);
-  border: solid 3px #0A66C2;
+  border: solid 3px #0a66c2;
 }
 
 .heroImg {
@@ -87,28 +87,26 @@
   }
 
   .title {
-    font-size: 56px;
+    font-size: 54px;
     line-height: 1;
-    margin-top: 15px;
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  .description {
+    font-size: 24px;
+  }
+
+  .btnContainer {
+    flex-direction: column;
+    width: 100%;
   }
   
-  .description {
-  font-size: 26px;
-}
-
   .primaryBtn {
     text-align: center;
   }
 
   .secondaryBtn {
-    text-align: center;
-  }
-
-  .btnContainer {
-    flex-direction: column;
-  }
-
-  .title {
     text-align: center;
   }
 }
