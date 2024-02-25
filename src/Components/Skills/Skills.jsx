@@ -1,8 +1,8 @@
 import React from "react";
 import styles from "./Skills.module.css";
-import tech from "../../data/tech.json";
+import techSkills from "../../data/tech.json";
 import { getImageUrl } from "../../utils";
-import history from "../../data/experience.json"
+import history from "../../data/history.json";
 
 export const Skills = () => {
   return (
@@ -10,7 +10,7 @@ export const Skills = () => {
       <h2 className={styles.title}>Skills</h2>
       <div className={styles.content}>
         <div className={styles.skills}>
-          {tech.map((tech, id) => {
+          {techSkills.map((tech, id) => {
             return (
               <div key={id} className={styles.skill}>
                 <div className={styles.skillImageContainer}>
