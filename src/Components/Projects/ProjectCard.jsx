@@ -6,19 +6,19 @@ export const ProjectCard = ({ project: {title, description, imageSrc, skills, de
   return (
     <div className={styles.container}>
       <img src={getImageUrl(imageSrc)} alt={title} className={styles.image} />
-      <h3>{title}</h3>
-      <p>{description}</p>
       <ul>
         {skills.map((skill, id) => {
           return <li key={id}>{skill}</li>;
         })}
       </ul>
-      <div className={styles.links}>
+      <h3>{title}</h3>
+      <p>{description}</p>
+      <div className={styles.btnContainer}>
         <a
           href={demo}
           target="_blank"
           rel="noopener"
-          className={styles.projectBtn}
+          className={styles.primaryBtn}
         >
           Demo 🡕
         </a>
@@ -26,7 +26,7 @@ export const ProjectCard = ({ project: {title, description, imageSrc, skills, de
           href={source}
           target="_blank"
           rel="noopener"
-          className={styles.projectBtn}
+          className={styles.secondaryBtn}
         >
           GitHub 🡕
         </a>
