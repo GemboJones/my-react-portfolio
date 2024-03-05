@@ -4,10 +4,10 @@ import { getImageUrl } from "../../utils";
 
 export const Footer = () => {
   return (
-    <section className={styles.container}>
-      <div className={styles.title}>
-        <h1>Contact</h1>
-        <p>Come say hi!</p>
+    <footer className={styles.container}>
+      <div className={styles.text}>
+        <h2>Contact</h2>
+        <p>Let's connect! 🔗</p>
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
@@ -25,6 +25,6 @@ export const Footer = () => {
           <a href="mailto: myemail@hotmail.com">myemail@hotmail.com</a>
         </li>
       </ul>
-    </section>
+    </footer>
   );
 };
