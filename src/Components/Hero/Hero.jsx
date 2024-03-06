@@ -13,7 +13,7 @@ export const Hero = () => {
         </p>
         <div className={styles.btnContainer}>
           <a href="#projects" className={styles.primaryBtn}>
-            Latest work 🡓
+            Latest work ⬇️
           </a>
           <a
             href="https://www.linkedin.com/in/gemma-randall-design/"
@@ -21,7 +21,7 @@ export const Hero = () => {
             rel="noopener"
             className={styles.secondaryBtn}
           >
-            LinkedIn 🡕
+            LinkedIn ↗️
           </a>
         </div>
       </div>

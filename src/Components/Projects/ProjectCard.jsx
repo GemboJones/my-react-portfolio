@@ -20,7 +20,7 @@ export const ProjectCard = ({ project: {title, description, imageSrc, skills, de
           rel="noopener"
           className={styles.primaryBtn}
         >
-          Demo 🡕
+          Demo
         </a>
         <a
           href={source}
@@ -28,7 +28,7 @@ export const ProjectCard = ({ project: {title, description, imageSrc, skills, de
           rel="noopener"
           className={styles.secondaryBtn}
         >
-          GitHub 🡕
+          GitHub
         </a>
       </div>
     </div>
