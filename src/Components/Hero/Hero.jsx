@@ -8,12 +8,12 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Gemma 👋</h1>
         <p className={styles.description}>
-          I'm a highly collaborative developer who builds websites and apps with
+          A highly collaborative developer who builds websites and apps with
           an emphasis on user experience and design.
         </p>
         <div className={styles.btnContainer}>
           <a href="#projects" className={styles.primaryBtn}>
-            Latest work ⬇️
+            Latest work
           </a>
           <a
             href="https://www.linkedin.com/in/gemma-randall-design/"
@@ -21,7 +21,7 @@ export const Hero = () => {
             rel="noopener"
             className={styles.secondaryBtn}
           >
-            LinkedIn ↗️
+            LinkedIn
           </a>
         </div>
       </div>
