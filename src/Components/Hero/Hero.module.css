@@ -15,12 +15,13 @@
   flex-direction: column;
   align-items: flex-start;
   color: var(--color-text);
+  margin-top: 80px;
 }
 
 .title {
   font-size: 54px;
   font-weight: 700;
-  margin-bottom: 30px;
+  margin-bottom: 36px;
   letter-spacing: 1px;
   line-height: 1;
 }
@@ -35,7 +36,7 @@
 .btnContainer {
   display: flex;
   flex-direction: row;
-  gap: 20px;
+  gap: 12px;
 }
 
 .primaryBtn {
@@ -43,9 +44,9 @@
   font-weight: 700;
   font-family: 'Glacial Indifference', sans-serif;
   letter-spacing: 0.5px;
-  color: var(--color-text);
-  background-color: var(--color-secondary);
-  border: solid 3px var(--color-secondary);
+  color: var(--color-bg);
+  background-color: var(--color-primary);
+  border: solid 3px var(--color-primary);
   border-radius: 100px;
   padding: 18px 26px 20px 26px;
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
@@ -55,9 +56,9 @@
 }
 
 .primaryBtn:hover {
-  background-color: var(--color-primary);
+  background-color: var(--color-hover);
   color: var(--color-bg);
-  border: solid 3px var(--color-primary);
+  border: solid 3px var(--color-hover);
 }
 
 .secondaryBtn {
@@ -65,8 +66,8 @@
   font-weight: 700;
   font-family: 'Glacial Indifference', sans-serif;
   letter-spacing: 0.5px;
-  color: var(--color-text);
-  border: solid 3px var(--color-secondary);
+  color: var(--color-primary);
+  border: solid 3px var(--color-primary);
   border-radius: 100px;
   padding: 18px 26px 20px 26px;
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
@@ -76,14 +77,16 @@
 }
 
 .secondaryBtn:hover {
-  background-color: var(--color-primary);
+  background-color: var(--color-hover);
   color: var(--color-bg);
-  border: solid 3px var(--color-primary);
+  border: solid 3px var(--color-hover);
 }
 
 .heroImg {
-  width: 50%;
-  padding-bottom: 20px;
+  width: 35%;
+  border-radius: 50%;
+  border: solid 10px var(--color-primary);
+  margin: 56px;
 }
 
 @media screen and (max-width: 830px) {
@@ -94,11 +97,14 @@
 
   .content {
     align-items: center;
+    margin-top: 42px;
   }
 
   .heroImg {
-  width: 60%;
-  padding-bottom: 24px;
+  width: 50%;
+  border: solid 4px var(--color-primary);
+  margin-top: 18px;
+  margin-bottom: 0px;
 }
 
   .title {

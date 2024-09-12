@@ -1,26 +1,51 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Events Web App",
+    "imageSrc": "projects/events-app-thumb-03.png",
+    "description": "MERN full-stack events web platform where members can create and share free events with their community.",
+    "skills": [
+      "React",
+      "JavaScript",
+      "Express",
+      "Node",
+      "MongoDB",
+      "Axios",
+      "Google Calendar API"
+    ],
+    "demo": "https://eventfree-events.netlify.app",
+    "source": "https://github.com/GemboJones/events-app"
   },
   {
-    "title": "Project B",
+    "title": "Events Web App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "MERN full-stack events web platform where members can create and share free events with their community.",
+    "skills": [
+      "React",
+      "JavaScript",
+      "Express",
+      "Node",
+      "MongoDB",
+      "Axios",
+      "Google Calendar API"
+    ],
+    "demo": "https://eventfree-events.netlify.app",
+    "source": "https://github.com/GemboJones/events-app"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Events Web App",
+    "imageSrc": "projects/events-app-thumb-03.png",
+    "description": "MERN full-stack events web platform where members can create and share free events with their community.",
+    "skills": [
+      "React",
+      "JavaScript",
+      "Express",
+      "Node",
+      "MongoDB",
+      "Axios",
+      "Google Calendar API"
+    ],
+    "demo": "https://eventfree-events.netlify.app",
+    "source": "https://github.com/GemboJones/events-app"
   }
+
 ]

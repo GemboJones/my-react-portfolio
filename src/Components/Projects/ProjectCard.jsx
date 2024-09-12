@@ -6,6 +6,7 @@ export const ProjectCard = ({ project: {title, description, imageSrc, skills, de
   return (
     <div className={styles.container}>
       <img src={getImageUrl(imageSrc)} alt={title} className={styles.image} />
+      <div className={styles.contentContainer}>
       <ul>
         {skills.map((skill, id) => {
           return <li key={id}>{skill}</li>;
@@ -30,6 +31,7 @@ export const ProjectCard = ({ project: {title, description, imageSrc, skills, de
         >
           GitHub
         </a>
+      </div>
       </div>
     </div>
   );
