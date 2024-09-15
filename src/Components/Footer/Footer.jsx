@@ -4,7 +4,7 @@ import { getImageUrl } from "../../utils";
 
 export const Footer = () => {
   return (
-    <footer className={styles.container}>
+    <footer className={styles.container} id="contact">
       <div className={styles.text}>
         <h2>Contact</h2>
         <p>Let's connect! 🔗</p>
@@ -28,12 +28,6 @@ export const Footer = () => {
             rel="noopener"
           >
             linkedin.com/in/gemma-randall-design
-          </a>
-        </li>
-        <li className={styles.link}>
-          <img src={getImageUrl("footer/emailIcon.png")} alt="icon" />
-          <a href="mailto: myemail@hotmail.com" target="_blank" rel="noopener">
-            myemail@hotmail.com
           </a>
         </li>
       </ul>
