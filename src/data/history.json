@@ -5,7 +5,7 @@
     "startDate": "Mar, 2024",
     "endDate": "May 2024",
     "description": "Working as a freelance consultant to deliver a bespoke Software Engineering product for internal development, as part of the Launchpad programme.",
-    "experiences": ["✔️ Designed and built a responsive events website. Key features include Google Calendar API integration to add events to your Google Calendar, a social feature to view all users that are attending an event and role specific pages such as an admin-only Create Event page.", "✔️ Planning stage involved events app and API research, user stories, UI designs and a React architecture diagram (showing components, state management, context API, props, routing and API HTTP methods/endpoints)."],
+    "experiences": ["Designed and built a responsive events website. Key features include Google Calendar API integration to add events to your Google Calendar, a social feature to view all users that are attending an event and role specific pages e.g. an admin-only Create Event page.", "Planning stage involved events app and API research, user stories, UI designs and a React architecture diagram (showing components, state management, context API, props, routing and API HTTP methods/endpoints)."],
     "imageSrc": "history/TR-logo-100.png"
   },
   {
@@ -14,7 +14,7 @@
     "startDate": "Jul 2023",
     "endDate": "Sep 2023",
     "description": "Full-time award winning coding bootcamp training. Pair programming, solo sprints and team projects meant practical hands-on experience of front-end and back-end development.",
-    "experiences": ["💡Highlight: Team project building a Full-Stack React Native Mobile App using the MERN stack, Expo, and Google Maps API. We had a great team dynamic; planning, spiking, pair-programming, and testing effectively; completing the app comfortably within the 3-week deadline; and successfully passing real-time user testing for the Android (APK) build."],
+    "experiences": ["Team project building a Full-Stack React Native Mobile App using the MERN stack, Expo, and Google Maps API. We had a great team dynamic; planning, spiking, pair-programming, and testing effectively; completing the app comfortably within the 3-week deadline; and successfully passing real-time user testing for the Android (APK) build."],
     "imageSrc": "history/NC-logo-100.png"
   }
 ]
