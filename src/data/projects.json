@@ -1,7 +1,23 @@
 [
   {
     "title": "Events Web App",
-    "imageSrc": "projects/events-app-thumb-03.png",
+    "imageSrc": "projects/react-web-app-events-thumb.png",
+    "description": "MERN full-stack events web platform where members can create and share free events with their community.",
+    "skills": [
+      "React",
+      "JavaScript",
+      "Express",
+      "Node",
+      "MongoDB",
+      "Axios",
+      "Google Calendar API"
+    ],
+    "demo": "https://eventfree-events.netlify.app",
+    "source": "https://github.com/GemboJones/events-app"
+  },
+  {
+    "title": "Safe Journey React Native App",
+    "imageSrc": "projects/react-native-mobile-app-SJ-thumb-06.png",
     "description": "MERN full-stack events web platform where members can create and share free events with their community.",
     "skills": [
       "React",
@@ -18,22 +34,6 @@
   {
     "title": "Events Web App",
     "imageSrc": "projects/project.png",
-    "description": "MERN full-stack events web platform where members can create and share free events with their community.",
-    "skills": [
-      "React",
-      "JavaScript",
-      "Express",
-      "Node",
-      "MongoDB",
-      "Axios",
-      "Google Calendar API"
-    ],
-    "demo": "https://eventfree-events.netlify.app",
-    "source": "https://github.com/GemboJones/events-app"
-  },
-  {
-    "title": "Events Web App",
-    "imageSrc": "projects/events-app-thumb-03.png",
     "description": "MERN full-stack events web platform where members can create and share free events with their community.",
     "skills": [
       "React",
