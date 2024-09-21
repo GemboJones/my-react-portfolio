@@ -29,7 +29,7 @@ export const ProjectCard = ({ project: {title, description, imageSrc, skills, de
           rel="noopener"
           className={styles.secondaryBtn}
         >
-          GitHub
+          Source code
         </a>
       </div>
       </div>
