@@ -16,36 +16,27 @@
     "source": "https://github.com/GemboJones/events-app"
   },
   {
-    "title": "Safe Journey React Native App",
-    "imageSrc": "projects/react-native-mobile-app-SJ-thumb-06.png",
-    "description": "MERN full-stack events web platform where members can create and share free events with their community.",
+    "title": "Safe Journey Mobile App",
+    "imageSrc": "projects/react-native-mobile-app-SJ-thumb-07.png",
+    "description": "Friends can track each others journeys to ensure they arrive safely. Team project built from initial concept to end product.",
     "skills": [
-      "React",
-      "JavaScript",
+      "React Native",
+      "Google Maps API",
       "Express",
+      "Expo",
       "Node",
       "MongoDB",
-      "Axios",
-      "Google Calendar API"
+      "JavaScript"
     ],
-    "demo": "https://eventfree-events.netlify.app",
-    "source": "https://github.com/GemboJones/events-app"
+    "demo": "https://www.dropbox.com/scl/fi/cyu6v86jo1k12nl1x7wsh/Safe-Journey-App-Solo-Journey-Tracking.mp4?rlkey=nnu0m1ux1c9c97sk2io88b3us&dl=0",
+    "source": "https://github.com/GemboJones/FE-SafeJourney"
   },
   {
-    "title": "Events Web App",
-    "imageSrc": "projects/project.png",
-    "description": "MERN full-stack events web platform where members can create and share free events with their community.",
-    "skills": [
-      "React",
-      "JavaScript",
-      "Express",
-      "Node",
-      "MongoDB",
-      "Axios",
-      "Google Calendar API"
-    ],
-    "demo": "https://eventfree-events.netlify.app",
-    "source": "https://github.com/GemboJones/events-app"
+    "title": "Snake Game",
+    "imageSrc": "projects/2000s-snake-game-thumb-01.png",
+    "description": "2000s mobile inspired game. Tutuorial build with code additions including styling changes and 'WASD' keyboard controls.",
+    "skills": ["JavaScript", "HTML", "CSS", "Freecodecamp Tutorial"],
+    "demo": "https://snake-game-play.netlify.app/",
+    "source": "https://github.com/GemboJones/snake-game"
   }
-
 ]
