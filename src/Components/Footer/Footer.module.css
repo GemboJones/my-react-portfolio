@@ -53,6 +53,15 @@
   letter-spacing: 0.25px;
 }
 
+.attribution {
+  text-align: center;
+}
+
+.attribution a {
+  color: var(--color-secondary);
+  font-family: var(--font-body);
+}
+
 
 @media screen and (max-width: 830px) {
    .container {
