@@ -8,14 +8,14 @@ export const About = () => {
     <section className={styles.container} id="about">
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
-        {/* <img
+        <img
           className={styles.aboutImage}
-          src={getImageUrl("hero/hero-2.png")}
+          src={getImageUrl("about/girl.png")}
           alt="headshot"
-        /> */}
-        <div className={styles.emoji}>          
+        />
+        {/* <div className={styles.emoji}>          
         <p>👩‍🦰</p>
-        </div>
+        </div> */}
         <ul className={styles.aboutItems}>
           {aboutInfo.map((about, id) => {
             return (
