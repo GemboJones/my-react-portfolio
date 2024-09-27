@@ -13,6 +13,7 @@
     "@fontsource/josefin-sans": "^5.0.18",
     "@fontsource/outfit": "^5.0.8",
     "@fontsource/roboto": "^5.0.8",
+    "@fontsource/teachers": "^5.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

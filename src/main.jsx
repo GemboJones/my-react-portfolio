@@ -6,6 +6,7 @@ import './index.css'
 import "@fontsource/roboto"
 import "@fontsource/outfit"
 import "@fontsource/josefin-sans"
+import "@fontsource/teachers"
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
