@@ -6,7 +6,7 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Gemma 👋</h1>
+        <h1 className={styles.title}>Hi, I'm Gemma</h1>
         <p className={styles.description}>
           I'm a creative developer who builds websites and apps with
           an emphasis on user experience and design.
@@ -27,7 +27,7 @@ export const Hero = () => {
       </div>
       <img
         className={styles.heroImg}
-        src={getImageUrl("hero/hero-2.png")}
+        src={getImageUrl("hero/hero-6.png")}
         alt="headshot"
       />
     </section>
