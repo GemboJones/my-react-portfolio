@@ -13,14 +13,15 @@ export const About = () => {
           src={getImageUrl("about/girl.png")}
           alt="headshot"
         />
-        {/* <div className={styles.emoji}>          
-        <p>👩‍🦰</p>
-        </div> */}
         <ul className={styles.aboutItems}>
           {aboutInfo.map((about, id) => {
             return (
               <li key={id} className={styles.aboutItem}>
-                <img src={getImageUrl(about.imageSrc)} alt="icon" />
+                <img
+                  className={styles.aboutItemIcon}
+                  src={getImageUrl(about.imageSrc)}
+                  alt="icon"
+                />
                 <div className={styles.aboutItemText}>
                   <p>{about.text}</p>
                 </div>

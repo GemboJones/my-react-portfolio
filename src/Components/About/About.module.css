@@ -2,39 +2,29 @@
 
 .container {
   position: relative;
-  /* background-color: rgba(12, 12, 12, 0.6); */
   background-color: var(--color-primary);
   border-radius: 15px;
-  padding: 72px;
+  padding: 62px;
   margin-top: 120px;
   margin-left: 10%;
   margin-right: 10%;
-  /* color: var(--color-text); */
 }
 
 .title {
   font-size: 35px;
   font-weight: 700;
-  letter-spacing: 1.75px;
+  letter-spacing: 0.5px;
   text-transform: uppercase;
   text-align: center;
+  margin-bottom: 10px;
 }
 
 .content {
   display: flex;
   flex-direction: row;
   align-items: center;
-  gap: 30px;
+  gap: 40px;
 }
-
-/* .emoji {
-  background-color: var(--color-secondary);
-  padding-top: 12px;
-  padding-left: 6px;
-  padding-right: 6px;
-  border-radius: 50%;
-  font-size: 200px;
-} */
 
 .aboutImage {
   width: 20%;
@@ -64,15 +54,9 @@
   background-color: var(--color-hover);
 }
 
-.aboutItem img {
+.aboutItemIcon {
   width: 48px;
-  /* padding: 10px; */
 }
-
-/* .aboutItem h3 {
-  font-size: 26px;
-  font-weight: 700px;
-} */
 
 .aboutItem p {
   font-family: var(--font-body);
@@ -82,28 +66,22 @@
 
 @media screen and (max-width: 830px) {
   .container {
-    /* background-color: transparent; */
     padding-left: 0;
     padding-right: 0;
-    /* padding-left: 10%;
-  padding-right: 10%; */
     margin-left: 0;
     margin-right: 0;
     border-radius: 0;
   }
   .content {
     flex-direction: column;
+    gap: 20px;
   }
 
-  /* .emoji {
-    font-size: 100px;
-  } */
-
   .aboutImage {
-    width: 40%;
-    background-color: var(--color-secondary);
-    border-radius: 50%;
+    width: 30%;
     padding: 20px;
+    margin-top: 10px;
+    /* display: none; */
   }
 
   .aboutItem {
@@ -111,10 +89,6 @@
     padding-left: 10%;
     padding-right: 10%;
   }
-
-  /* .aboutItem h3 {
-  font-size: 22px;
-} */
 
   .aboutItem p {
     font-size: 18px;
