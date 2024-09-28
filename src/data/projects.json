@@ -33,7 +33,7 @@
   },
   {
     "title": "Snake Web Browser Game",
-    "imageSrc": "projects/2000s-snake-game-thumb-01.png",
+    "imageSrc": "projects/snake-game-thumb.png",
     "description": "2000s mobile inspired game. Tutorial build with code additions including styling changes and 'WASD' keyboard controls.",
     "skills": ["JavaScript", "HTML", "CSS", "Freecodecamp Tutorial"],
     "demo": "https://snake-game-play.netlify.app/",
