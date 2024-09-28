@@ -88,7 +88,7 @@
   margin: 56px;
 }
 
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 900px) {
   .container {
     flex-direction: column-reverse;
     margin-top: 24px;

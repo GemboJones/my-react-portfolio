@@ -10,7 +10,7 @@
 .title {
   font-size: 35px;
   font-weight: 700;
-  letter-spacing: 1.75px;
+  letter-spacing: 0.5px;
   text-transform: uppercase;
 }
 
@@ -50,8 +50,8 @@
 }
 
 .skill p {
-  font-size: 20px;
-  letter-spacing: -0.25px;
+  font-family: var(--font-body);
+  font-size: 21px;
 }
 
 .history {
@@ -104,7 +104,7 @@
   content: "✔️";
 }
 
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 900px) {
   .content {
     flex-direction: column;
     align-items: center;
