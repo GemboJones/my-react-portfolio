@@ -22,17 +22,17 @@
     "skills": [
       "React Native",
       "Google Maps API",
-      "Express",
+      "JavaScript",
       "Expo",
       "Node",
-      "MongoDB",
-      "JavaScript"
+      "Express",
+      "MongoDB"
     ],
     "demo": "https://www.dropbox.com/scl/fi/b5258l2z0izsse2k8g79u/Safe-Journey-Mobile-App-Demo.mp4?rlkey=hrrr6s5sc9vuph4ncueeh5nlx&st=k2nxcqqy&dl=0",
     "source": "https://github.com/GemboJones/FE-SafeJourney"
   },
   {
-    "title": "Snake Game",
+    "title": "Snake Web Browser Game",
     "imageSrc": "projects/2000s-snake-game-thumb-01.png",
     "description": "2000s mobile inspired game. Tutorial build with code additions including styling changes and 'WASD' keyboard controls.",
     "skills": ["JavaScript", "HTML", "CSS", "Freecodecamp Tutorial"],

@@ -10,8 +10,9 @@
 .title {
   font-size: 35px;
   font-weight: 700;
-  letter-spacing: 1.75px;
+  letter-spacing: 0.5px;
   text-transform: uppercase;
+  text-align: center;
 }
 
 .projects {
@@ -25,3 +26,10 @@
   width: 100%;
 }
 
+@media screen and (max-width: 900px) {
+
+  .container {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+}
