@@ -56,14 +56,14 @@
 
 .primaryBtn {
   background-color: var(--color-primary);
-  color: var(--color-bg);
+  color: var(--color-secondary);
   border: solid 3px var(--color-primary);
   border-radius: 100px;
   font-size: 17px;
   font-weight: 700;
   letter-spacing: 0.5px;
-  padding: 10px 18px 10px 18px;
-  box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+  padding: 10px 18px 11px 18px;
+  /* box-shadow: 0 0 6px rgba(0, 0, 0, 0.5); */
   cursor: pointer;
   text-decoration: none;
   transition: 0.2s;
@@ -82,8 +82,8 @@
   font-size: 17px;
   font-weight: 700;
   letter-spacing: 0.5px;
-  padding: 10px 18px 10px 18px;
-  box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+  padding: 10px 18px 11px 18px;
+  /* box-shadow: 0 0 6px rgba(0, 0, 0, 0.5); */
   cursor: pointer;
   text-decoration: none;
   transition: 0.2s;

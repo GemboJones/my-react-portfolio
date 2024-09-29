@@ -29,7 +29,7 @@
 
 .aboutImage {
   width: 20%;
-  background-color: var(--color-secondary);
+  background-color: var(--color-bg);
   border-radius: 50%;
   padding: 30px;
 }
