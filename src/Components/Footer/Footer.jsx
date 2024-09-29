@@ -18,7 +18,7 @@ export const Footer = () => {
               target="_blank"
               rel="noopener"
             >
-              github.com/GemboJones
+              GitHub Profile
             </a>
           </li>
           <li className={styles.link}>
@@ -28,7 +28,7 @@ export const Footer = () => {
               target="_blank"
               rel="noopener"
             >
-              linkedin.com/in/gemma-randall-design
+              LinkedIn Profile
             </a>
           </li>
         </ul>
