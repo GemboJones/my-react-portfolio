@@ -24,31 +24,28 @@
   margin-bottom: 36px;
   letter-spacing: 0.5px;
   line-height: 1;
-  font-family: var(--font-body);
 }
 
 .description {
   font-size: 26px;
   margin-bottom: 54px;
-  font-family: var(--font-body);
 }
 
 .btnContainer {
   display: flex;
   flex-direction: row;
-  gap: 12px;
+  gap: 18px;
 }
 
 .primaryBtn {
   font-size: 26px;
   font-weight: 700;
-  font-family: var(--font-body);
   letter-spacing: 0.75px;
   color: var(--color-bg);
   background-color: var(--color-primary);
   border: solid 3px var(--color-primary);
   border-radius: 100px;
-  padding: 18px 26px 20px 26px;
+  padding: 16px 26px 18px 26px;
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
   cursor: pointer;
   text-decoration: none;
@@ -56,20 +53,19 @@
 }
 
 .primaryBtn:hover {
-  background-color: var(--color-hover);
   color: var(--color-bg);
+  background-color: var(--color-hover);
   border: solid 3px var(--color-hover);
 }
 
 .secondaryBtn {
   font-size: 26px;
   font-weight: 700;
-  font-family: var(--font-body);
   letter-spacing: 0.75px;
   color: var(--color-primary);
   border: solid 3px var(--color-primary);
   border-radius: 100px;
-  padding: 18px 26px 20px 26px;
+  padding: 16px 26px 18px 26px;
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
   cursor: pointer;
   text-decoration: none;
@@ -77,8 +73,8 @@
 }
 
 .secondaryBtn:hover {
-  background-color: var(--color-hover);
   color: var(--color-bg);
+  background-color: var(--color-hover);
   border: solid 3px var(--color-hover);
 }
 
@@ -100,10 +96,10 @@
   }
 
   .heroImg {
-  width: 45%;
-  margin-top: 18px;
-  margin-bottom: 0px;
-}
+    width: 45%;
+    margin-top: 18px;
+    margin-bottom: 0px;
+  }
 
   .title {
     font-size: 48px;
@@ -118,7 +114,7 @@
     flex-direction: column;
     width: 100%;
   }
-  
+
   .primaryBtn {
     text-align: center;
   }
