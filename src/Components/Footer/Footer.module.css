@@ -51,6 +51,11 @@
   text-decoration: none;
 }
 
+.link a:hover {
+  color: var(--color-primary);
+  transition: 0.2s;
+}
+
 .attribution {
   text-align: center;
 }
