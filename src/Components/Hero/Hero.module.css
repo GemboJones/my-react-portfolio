@@ -21,7 +21,7 @@
 .title {
   font-size: 54px;
   font-weight: 700;
-  margin-bottom: 36px;
+  margin-bottom: 16px;
   letter-spacing: 0.5px;
   line-height: 1;
 }
@@ -87,18 +87,17 @@
 @media screen and (max-width: 900px) {
   .container {
     flex-direction: column-reverse;
-    margin-top: 24px;
+    margin-top: 70px;
   }
 
   .content {
     align-items: center;
-    margin-top: 42px;
+    margin-top: 48px;
   }
 
   .heroImg {
     width: 45%;
-    margin-top: 18px;
-    margin-bottom: 0px;
+    margin: 0;
   }
 
   .title {
