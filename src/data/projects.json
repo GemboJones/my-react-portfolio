@@ -1,8 +1,8 @@
 [
   {
     "title": "Events Web App",
-    "imageSrc": "projects/react-web-app-events-thumb.png",
-    "description": "MERN full-stack events web platform where members can create and share free events with their community.",
+    "imageSrc": "projects/react-events-web-app-thumb.png",
+    "description": "MERN full-stack events web platform. Users can create events, add events to Google Calendar & view who's attending.",
     "skills": [
       "React",
       "JavaScript",
@@ -18,7 +18,7 @@
   {
     "title": "Safe Journey Mobile App",
     "imageSrc": "projects/react-native-mobile-app-SJ-thumb-07.png",
-    "description": "Built from initial concept and UI designs to end product. Friends track each others journeys to ensure they arrive safely.",
+    "description": "Built from initial concept and UI designs to end product. Friends can track each other's journey plans & real-time location.",
     "skills": [
       "React Native",
       "Google Maps API",
