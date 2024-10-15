@@ -18,7 +18,7 @@
   {
     "title": "Safe Journey Mobile App",
     "imageSrc": "projects/react-native-mobile-app-SJ-thumb-07.png",
-    "description": "Friends can track each others journeys to ensure they arrive safely. Team project built from initial concept to end product.",
+    "description": "Built from initial concept and UI designs to end product. Friends track each others journeys to ensure they arrive safely.",
     "skills": [
       "React Native",
       "Google Maps API",
@@ -32,9 +32,9 @@
     "source": "https://github.com/GemboJones/FE-SafeJourney"
   },
   {
-    "title": "Snake Web Browser Game",
+    "title": "Snake Web Game",
     "imageSrc": "projects/snake-game-thumb.png",
-    "description": "2000s mobile inspired game. Tutorial build with code additions including styling changes and 'WASD' keyboard controls.",
+    "description": "2000s inspired online game. Tutorial build with my own code added including WASD keyboard controls and styling changes.",
     "skills": ["JavaScript", "HTML", "CSS", "Freecodecamp Tutorial"],
     "demo": "https://snake-game-play.netlify.app/",
     "source": "https://github.com/GemboJones/snake-game"
