@@ -18,7 +18,7 @@
   {
     "title": "Safe Journey Mobile App",
     "imageSrc": "projects/react-native-mobile-app-SJ-thumb-07.png",
-    "description": "Built from initial concept and UI designs to end product. Friends can track each other's journey plans & real-time location.",
+    "description": "Built from initial concept to end product. Friends or family members can track each other's journey plan & real-time location.",
     "skills": [
       "React Native",
       "Google Maps API",
