@@ -1,18 +1,18 @@
 [
   {
-    "text": "Front-end developer who designs and codes beautiful and responsive websites and apps, specialising in JavaScript and React.",
+    "text": "Front-end developer who designs and builds responsive and user-friendly websites and apps, specialising in JavaScript and React.",
     "imageSrc": "about/frontend.png"
   },
   {
-    "text": "Back-end developer skills building and testing back-end systems, including databases and APIs (MVC pattern).",
-    "imageSrc": "about/api.png"
-  },
-  {
-    "text": "UX/UI design experience creating new features for web apps and redesigning webpages, including building user flows, wireframes, prototypes and colour schemes.",
+    "text": "UX/UI designer experienced in user stories, user flows, wireframing, UI design, prototyping, colour schemes and UI components.",
     "imageSrc": "about/ui.png"
   },
   {
-    "text": "Worked with agile teams (product and development) to deliver high-quality SaaS solutions in a tech company.",
+    "text": "Skilled in building, integrating and testing back-end systems, including databases and APIs.",
+    "imageSrc": "about/api.png"
+  },
+  {
+    "text": "Collaborated with agile teams (product development) delivering UX/UI solutions for SaaS apps.",
     "imageSrc": "about/team.png"
   },
   {
