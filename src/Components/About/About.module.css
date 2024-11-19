@@ -49,6 +49,8 @@
   padding: 10px;
   transition: 0.2s;
   gap: 20px;
+  font-size: 21px;
+  font-weight: 400;
 }
 
 .aboutItem:hover {
@@ -58,11 +60,6 @@
 
 .aboutItemIcon {
   width: 48px;
-}
-
-.aboutItem p {
-  font-size: 21px;
-  font-weight: 400;
 }
 
 @media screen and (max-width: 900px) {
@@ -87,8 +84,9 @@
 
   .aboutItem {
     border-radius: 0;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 8%;
+    padding-right: 8%;
+    font-size: 18px;
   }
 
 }
