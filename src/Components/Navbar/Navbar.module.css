@@ -55,12 +55,15 @@
   .navbar {
     flex-direction: column;
     align-items: flex-start;
+    margin-left: 8%;
+    margin-right: 8%;
+    padding-top: 34px;
   }
 
   .menu {
     position: absolute;
     right: 0;
-    top: 36px;
+    top: 30px;
     flex-direction: column;
     align-items: flex-end;
     gap: 10px;
@@ -89,8 +92,8 @@
   }
 
   .menuItems a:hover {
-  color: var(--color-primary);
-}
+    color: var(--color-primary);
+  }
 
   .menuOpen {
     display: flex;

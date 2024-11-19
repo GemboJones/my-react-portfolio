@@ -91,6 +91,8 @@
   .container {
     flex-direction: column-reverse;
     margin-top: 70px;
+    margin-left: 8%;
+    margin-right: 8%;
   }
 
   .content {
