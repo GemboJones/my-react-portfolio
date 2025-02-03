@@ -2,7 +2,8 @@
   {
     "title": "Food Delivery Web App",
     "imageSrc": "projects/nextjs-food-web-app-thumb.png",
-    "description": "🔧 UPDATES SOON: Food ordering full stack web app built with NextJS, Hygraph headless CMS and Clerk authentication.",
+    "description": "Food ordering full stack web app built with NextJS, headless CMS and Clerk. ",
+    "sideNote": "🔥Updates coming soon!",
     "skills": [
       "Next.js",
       "React",
@@ -19,7 +20,8 @@
   {
     "title": "Events Web App",
     "imageSrc": "projects/react-events-web-app-thumb.png",
-    "description": "MERN full-stack events web platform. Users can create events, add events to Google Calendar & view who's attending.",
+    "description": "MERN full-stack events web platform. Users can create events, add events to Google Calendar & view who's attending. ",
+    "sideNote": "",
     "skills": [
       "React",
       "JavaScript",
@@ -36,7 +38,8 @@
   {
     "title": "Safe Journey Mobile App",
     "imageSrc": "projects/react-native-mobile-app-SJ-thumb-07.png",
-    "description": "Built from initial concept to end product. Friends or family members can track each other's journey plan & real-time location.",
+    "description": "Built from initial concept to end product. Friends or family members can track each other's journey plan & real-time location. ",
+    "sideNote": "",
     "skills": [
       "React Native",
       "Google Maps API",
@@ -53,7 +56,8 @@
   {
     "title": "Snake Web Game",
     "imageSrc": "projects/snake-game-thumb.png",
-    "description": "2000s inspired online game. Tutorial build with my own code added including WASD keyboard controls and styling changes.",
+    "description": "2000s inspired online game. Tutorial build with my own code added including WASD keyboard controls and styling changes. ",
+    "sideNote": "",
     "skills": ["JavaScript", "HTML", "CSS", "Freecodecamp"],
     "demo": "https://snake-game-play.netlify.app/",
     "demoText": "Play Game",

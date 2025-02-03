@@ -1,8 +1,19 @@
-import React from 'react'
-import styles from "./ProjectCard.module.css"
+import React from "react";
+import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
 
-export const ProjectCard = ({ project: {title, description, imageSrc, skills, demo, demoText, source} }) => {
+export const ProjectCard = ({
+  project: {
+    title,
+    description,
+    sideNote,
+    imageSrc,
+    skills,
+    demo,
+    demoText,
+    source,
+  },
+}) => {
   return (
     <div className={styles.container}>
       <img src={getImageUrl(imageSrc)} alt={title} className={styles.image} />
@@ -13,7 +24,10 @@ export const ProjectCard = ({ project: {title, description, imageSrc, skills, de
           })}
         </ul>
         <h3>{title}</h3>
-        <p>{description}</p>
+        <p className={styles.description}>
+        {description}
+        </p>
+        <span className={styles.sideNote}>{sideNote}</span>
         <div className={styles.btnContainer}>
           <a
             href={demo}
