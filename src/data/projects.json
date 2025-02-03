@@ -13,6 +13,7 @@
       "Headless CMS"
     ],
     "demo": "https://fast-foodie.vercel.app/",
+    "demoText": "View App",
     "source": "https://github.com/GemboJones/takeaway-food-app"
   },
   {
@@ -29,6 +30,7 @@
       "Google Calendar API"
     ],
     "demo": "https://eventfree-events.netlify.app",
+    "demoText": "View App",
     "source": "https://github.com/GemboJones/events-app"
   },
   {
@@ -45,14 +47,16 @@
       "MongoDB"
     ],
     "demo": "https://vimeo.com/1016828875",
+    "demoText": "Watch Demo",
     "source": "https://github.com/GemboJones/FE-SafeJourney"
   },
   {
     "title": "Snake Web Game",
     "imageSrc": "projects/snake-game-thumb.png",
     "description": "2000s inspired online game. Tutorial build with my own code added including WASD keyboard controls and styling changes.",
-    "skills": ["JavaScript", "HTML", "CSS", "Freecodecamp Tutorial"],
+    "skills": ["JavaScript", "HTML", "CSS", "Freecodecamp"],
     "demo": "https://snake-game-play.netlify.app/",
+    "demoText": "Play Game",
     "source": "https://github.com/GemboJones/snake-game"
   }
 ]
