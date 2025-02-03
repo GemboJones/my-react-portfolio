@@ -23,7 +23,7 @@ export const About = () => {
                   alt="icon"
                 />
                 <div className={styles.aboutItemText}>
-                  <p>{about.text}</p>
+                  <p className={styles.aboutText}>{about.text}</p>
                 </div>
               </li>
             );

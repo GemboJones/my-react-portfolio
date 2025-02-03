@@ -2,7 +2,7 @@
 
 .container {
   position: relative;
-  background-color: var(--color-primary);
+  background-color: var(--color-secondary);
   border-radius: 15px;
   padding: 72px;
   margin-top: 140px;
@@ -18,6 +18,7 @@
   text-transform: uppercase;
   text-align: center;
   margin-bottom: 10px;
+  color: var(--color-text);
 }
 
 .content {
@@ -29,7 +30,7 @@
 
 .aboutImage {
   width: 20%;
-  background-color: var(--color-bg);
+  background-color: var(--color-primary);
   border-radius: 50%;
   padding: 30px;
 }
@@ -54,12 +55,15 @@
 }
 
 .aboutItem:hover {
-  background-color: var(--color-hover);
+  background-color: var(--color-bg);
   transition: 0.2s;
 }
 
 .aboutItemIcon {
   width: 48px;
+}
+.aboutText {
+  color: var(--color-text);
 }
 
 @media screen and (max-width: 900px) {
@@ -86,7 +90,6 @@
     border-radius: 0;
     padding-left: 8%;
     padding-right: 8%;
-    font-size: 18px;
+    font-size: 17px;
   }
-
 }

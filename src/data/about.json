@@ -1,22 +1,22 @@
 [
   {
-    "text": "Front-end developer who designs and builds responsive and user-friendly websites and apps, specialising in JavaScript and React.",
-    "imageSrc": "about/frontend.png"
+    "text": "Front-end developer who designs and builds responsive, user-friendly web and mobile apps, specialising in JavaScript and React.",
+    "imageSrc": "about/frontend-blue.png"
   },
   {
-    "text": "UX/UI designer experienced in user stories, user flows, wireframing, UI design, prototyping, colour schemes and UI components.",
-    "imageSrc": "about/ui.png"
+    "text": "UX/UI design experience creating user stories, user flows, wireframes, prototypes, colour schemes and UI components.",
+    "imageSrc": "about/ui-blue.png"
   },
   {
     "text": "Skilled in building, integrating and testing back-end systems, including databases and APIs.",
-    "imageSrc": "about/api.png"
+    "imageSrc": "about/api-blue.png"
   },
   {
-    "text": "Collaborated with agile teams (product development) delivering UX/UI solutions for SaaS apps.",
-    "imageSrc": "about/team.png"
+    "text": "Experience collaborating with agile product development teams delivering UX/UI solutions for SaaS applications.",
+    "imageSrc": "about/team-blue.png"
   },
   {
-    "text": "10 years prior experience in design before moving into development.",
-    "imageSrc": "about/palette.png"
+    "text": "10 years experience as a designer, skilled in Figma, Adobe and other design / prototyping tools.",
+    "imageSrc": "about/palette-blue.png"
   }
 ]
